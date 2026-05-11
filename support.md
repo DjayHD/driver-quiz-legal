@@ -27,6 +27,6 @@ All questions are stored locally within the app to ensure fast, offline access. 
 Toutes les questions sont stockées localement dans l'application pour garantir un accès hors ligne rapide. Pour obtenir les derniers ensembles de questions et améliorations, veuillez vous assurer que votre application est mise à jour vers la dernière version via l'App Store.
 
 3. Reporting an Error / Signaler une erreur
-Notice a typo or an incorrect answer? We strive for 100% accuracy for the Quebec driver's exam. Please email us a screenshot or the question text so we can fix it in the next update.
+Notice a typo or an incorrect answer? We strive for 100% accuracy for the driver's exam. Please email us a screenshot or the question text so we can fix it in the next update.
 
-Vous remarquez une faute de frappe ou une mauvaise réponse ? Nous visons une précision de 100 % pour l'examen de conduite du Québec. Veuillez nous envoyer par courriel une capture d'écran ou le texte de la question afin que nous puissions la corriger lors de la prochaine mise à jour.
+Vous remarquez une faute de frappe ou une mauvaise réponse ? Nous visons une précision de 100 % pour l'examen de conduite. Veuillez nous envoyer par courriel une capture d'écran ou le texte de la question afin que nous puissions la corriger lors de la prochaine mise à jour.
