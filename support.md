@@ -2,9 +2,7 @@ DriverSuccess Support
 Helping you master the road with confidence. If you're experiencing issues or have feedback on our practice questions, we're here to help.
 
 Get in Touch
-Email Support: For account issues or general questions, reach out to aa@aaa.com.
-
-Report a Bug: Notice something wrong? You can [Open a Ticket on GitHub] to help us improve the app for everyone.
+Email Support: For account issues or general questions, reach out to swiftstyleteam@gmail.com.
 
 Common Troubleshooting
 Offline Access: Ensure you have an active connection to load the latest question sets from our database.
