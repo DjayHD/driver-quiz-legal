@@ -1,53 +1,43 @@
-Privacy Policy for DriverSuccess
-Effective Date: April 21, 2026
+Privacy Policy for MapleDrive
+Effective Date: May 11, 2026
 
 1. Introduction
-This Privacy Policy explains how DriverSuccess ("the Application"), developed by AAAAAAA ("Service Provider"), collects, uses, and protects your information. The Application is provided as a Freemium service and is intended for use "AS IS."
+This Privacy Policy explains how MapleDrive ("the Application"), developed by Swift Style Team, handles your information. We are committed to a "Privacy by Design" approach. Because the Application is a front-end utility designed for offline and local use, we do not require you to create an account to access our driver’s license practice quizzes.
 
 2. Information Collection and Use
-To provide a personalized learning experience for your driver’s license preparation, we collect the following information:
+We do not collect, store, or transmit any personal identification information (PII).
 
-Personal Data: When you create an account or contact us, we may collect your email address (aa@aaa.com) and username.
+No Accounts: You are not required to provide a name, email address, or phone number to use the Application.
 
-Usage and Device Data: We automatically collect technical information, including your device's IP address, operating system, the specific pages you visit within the Application, and the time/date of your sessions.
+Local Data: Any progress tracking or quiz scores are stored locally on your device. We do not have access to this data.
 
-Progress Tracking: We collect data regarding your quiz scores and study progress to help you track your exam readiness.
+No Backend: There is no remote database or server-side storage (such as Supabase or custom APIs) used to collect your data.
 
-Note: The Application does not gather precise real-time location information from your mobile device.
+3. In-App Purchases (StoreKit)
+MapleDrive offers a one-time premium purchase to unlock additional content.
 
-3. Third-Party Services
-We use third-party tools to maintain and improve the Application. These services may collect information used to identify you. You can review their privacy policies here:
+Payments: All transactions are processed securely by Apple via StoreKit. We do not collect or store your credit card information or billing address.
 
-Expo: https://expo.dev/privacy
+Transaction Data: While Apple provides us with anonymized transaction receipts to confirm your "Premium" status, this data cannot be used by us to identify you personally.
 
-Apple App Analytics: https://www.apple.com/legal/privacy/
+Restore Purchases: The Application includes a "Restore Purchase" feature to allow you to reactivate your premium status on new devices using your Apple ID.
 
-4. Artificial Intelligence
-The Application does not currently use Artificial Intelligence (AI) or automated decision-making technologies to process your personal data.
+4. Third-Party Services
+To provide the app and monitor its stability, we use the following third-party services:
 
-5. Data Retention and Account Deletion
-Retention: We retain your data for as long as you use the Application.
+Expo: Used for the framework and app deployment. Privacy Policy
 
-Account Deletion (Mandatory for iOS): You have the right to delete your account and all associated data at any time. You can initiate this process by:
+Apple App Analytics: We may receive aggregated, non-identifying information (such as crash reports or the number of times a screen was viewed) to help us improve the app's performance. Privacy Policy
 
-Navigating to the Settings menu within the Application.
+5. Children’s Privacy
+Since we do not collect any personal data, MapleDrive is inherently safe for users of all ages. We do not knowingly market to or track children under the age of 13.
 
-Selecting "Delete Account."
+6. Data Security
+Because your data (such as quiz scores) stays on your device, its security is managed by the iOS operating system. We recommend keeping your device software updated to the latest version of iOS.
 
-Alternatively, you may email us at aa@aaa.com to request a manual deletion. We will respond and fulfill your request within a reasonable timeframe.
+7. Changes to This Policy
+We may update this Privacy Policy to reflect changes in our practices or for legal reasons. The "Effective Date" at the top will indicate when the last changes were made.
 
-6. Children’s Privacy
-DriverSuccess does not knowingly collect data from or market to children under the age of 13. If we discover that a child under 13 has provided us with personal information, we will delete it from our servers immediately.
-
-7. Security
-We implement industry-standard physical, electronic, and procedural safeguards to protect your personal information. However, please be aware that no security system can prevent all potential security breaches.
-
-8. Changes to This Policy
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page. We recommend checking this page regularly for updates.
-
-9. Your Consent
-By using the Application, you consent to the collection and processing of your information as described in this Privacy Policy.
-
-10. Contact Us
-If you have any questions regarding your privacy or our data practices, please contact us at:
-Email: aa@aaa.com
+8. Contact Us
+If you have questions about this policy or the Application, please contact us at:
+Email: swiftstyleteam@gmail.com
