@@ -1,7 +1,3 @@
-Here is the complete, bilingual Privacy Policy for MapleDrive.
-
-Since you are using a GitHub repository, I recommend saving this entire text into a single file named PRIVACY.md in a Public repository. This ensures that both English and French-speaking Apple reviewers (and users) can find all the information they need in one place.
-
 Privacy Policy / Politique de Confidentialité
 English Version
 Effective Date: May 11, 2026
