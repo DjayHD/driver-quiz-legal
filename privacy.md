@@ -1,95 +1,78 @@
-Privacy Policy for MapleDrive 
+Here is the complete, bilingual Privacy Policy for MapleDrive.
+
+Since you are using a GitHub repository, I recommend saving this entire text into a single file named PRIVACY.md in a Public repository. This ensures that both English and French-speaking Apple reviewers (and users) can find all the information they need in one place.
+
+Privacy Policy / Politique de Confidentialité
+English Version
 Effective Date: May 11, 2026
 
-FRENCH VERSION BELOW ENGLISH VERSION
-
-ENGLISH VERSION : 
-
 1. Introduction
-This Privacy Policy explains how MapleDrive ("the Application"), developed by Swift Style Team, handles your information. We are committed to a "Privacy by Design" approach. Because the Application is a front-end utility designed for offline and local use, we do not require you to create an account to access our driver’s license practice quizzes.
+This Privacy Policy explains how MapleDrive ("the Application"), developed by Swift Style Team, handles your information. We follow a "Privacy by Design" approach. Because the Application is a front-end utility designed for local use, we do not require you to create an account to access our driver’s license practice quizzes.
 
 2. Information Collection and Use
 We do not collect, store, or transmit any personal identification information (PII).
 
-No Accounts: You are not required to provide a name, email address, or phone number to use the Application.
+No Accounts: You are not required to provide a name, email address, or phone number.
 
 Local Data: Any progress tracking or quiz scores are stored locally on your device. We do not have access to this data.
 
-No Backend: There is no remote database or server-side storage (such as Supabase or custom APIs) used to collect your data.
+No Backend: There is no remote database or server-side storage used to collect your data.
 
 3. In-App Purchases (StoreKit)
 MapleDrive offers a one-time premium purchase to unlock additional content.
 
-Payments: All transactions are processed securely by Apple via StoreKit. We do not collect or store your credit card information or billing address.
+Payments: All transactions are processed securely by Apple via StoreKit. We do not collect or store your billing information.
 
-Transaction Data: While Apple provides us with anonymized transaction receipts to confirm your "Premium" status, this data cannot be used by us to identify you personally.
+Transaction Data: Apple provides anonymized receipts to confirm your "Premium" status; this data cannot be used to identify you personally.
 
-Restore Purchases: The Application includes a "Restore Purchase" feature to allow you to reactivate your premium status on new devices using your Apple ID.
+Restore Purchases: The Application includes a "Restore Purchase" feature to allow you to reactivate your status on new devices using your Apple ID.
 
 4. Third-Party Services
-To provide the app and monitor its stability, we use the following third-party services:
+We use the following services for app stability and deployment:
 
-Expo: Used for the framework and app deployment. Privacy Policy
+Expo: App framework and deployment. Privacy Policy
 
-Apple App Analytics: We may receive aggregated, non-identifying information (such as crash reports or the number of times a screen was viewed) to help us improve the app's performance. Privacy Policy
+Apple App Analytics: Provides aggregated, non-identifying performance data and crash reports. Privacy Policy
 
 5. Children’s Privacy
-Since we do not collect any personal data, MapleDrive is inherently safe for users of all ages. We do not knowingly market to or track children under the age of 13.
+MapleDrive does not collect any personal data and is safe for users of all ages. We do not track or market to children under 13.
 
-6. Data Security
-Because your data (such as quiz scores) stays on your device, its security is managed by the iOS operating system. We recommend keeping your device software updated to the latest version of iOS.
+6. Contact Us
+For questions regarding this policy, please contact us at: swiftstyleteam@gmail.com
 
-7. Changes to This Policy
-We may update this Privacy Policy to reflect changes in our practices or for legal reasons. The "Effective Date" at the top will indicate when the last changes were made.
-
-8. Contact Us
-If you have questions about this policy or the Application, please contact us at:
-Email: swiftstyleteam@gmail.com
-
-
-VERSION EN FRANCAIS
-
-
-Politique de Confidentialité pour MapleDrive
+Version Française
 Date d'entrée en vigueur : 11 mai 2026
 
 1. Introduction
-Cette politique de confidentialité explique comment MapleDrive (« l'Application »), développée par Swift Style Team, gère vos informations. Nous avons adopté une approche de « confidentialité dès la conception » (Privacy by Design). Comme l'Application est un outil uniquement frontal (front-end) conçu pour une utilisation locale et hors ligne, nous ne vous demandons pas de créer un compte pour accéder à nos questionnaires de préparation à l'examen de conduite.
+Cette politique de confidentialité explique comment MapleDrive (« l'Application »), développée par Swift Style Team, gère vos informations. Nous adoptons une approche de « confidentialité dès la conception ». Comme l'Application est un outil frontal (front-end) conçu pour une utilisation locale, nous ne vous demandons pas de créer un compte pour accéder à nos questionnaires de pratique.
 
 2. Collecte et utilisation des informations
 Nous ne collectons, ne stockons, ni ne transmettons aucune information d'identification personnelle (IIP).
 
-Aucun compte : Vous n'êtes pas tenu de fournir votre nom, votre adresse courriel ou votre numéro de téléphone pour utiliser l'Application.
+Aucun compte : Vous n'êtes pas tenu de fournir votre nom, votre courriel ou votre numéro de téléphone.
 
-Données locales : Tout suivi de votre progression ou vos scores aux quiz sont stockés localement sur votre appareil. Nous n'avons pas accès à ces données.
+Données locales : Votre progression et vos scores sont stockés localement sur votre appareil. Nous n'avons pas accès à ces données.
 
-Aucun serveur (Backend) : Aucune base de données à distance ou stockage côté serveur (comme Supabase ou des API personnalisées) n'est utilisé pour collecter vos données.
+Aucun serveur (Backend) : Aucune base de données à distance n'est utilisée pour collecter vos données.
 
 3. Achats intégrés (StoreKit)
-MapleDrive propose un achat unique « Premium » pour débloquer du contenu supplémentaire.
+MapleDrive propose un achat unique pour débloquer du contenu supplémentaire.
 
-Paiements : Toutes les transactions sont traitées de manière sécurisée par Apple via StoreKit. Nous ne collectons ni ne stockons vos informations de carte de crédit ou votre adresse de facturation.
+Paiements : Toutes les transactions sont traitées par Apple via StoreKit. Nous ne collectons pas vos informations de facturation.
 
-Données de transaction : Bien qu'Apple nous fournisse des reçus de transaction anonymisés pour confirmer votre statut « Premium », ces données ne peuvent pas être utilisées par nous pour vous identifier personnellement.
+Données de transaction : Apple nous fournit des reçus anonymisés pour confirmer votre statut « Premium » sans nous permettre de vous identifier.
 
-Restaurer les achats : L'Application inclut une fonction « Restaurer les achats » pour vous permettre de réactiver votre statut Premium sur de nouveaux appareils en utilisant votre identifiant Apple.
+Restaurer les achats : L'Application inclut une fonction « Restaurer les achats » pour réactiver votre statut sur de nouveaux appareils via votre identifiant Apple.
 
 4. Services tiers
-Pour assurer le bon fonctionnement de l'application et surveiller sa stabilité, nous utilisons les services tiers suivants :
+Nous utilisons les services suivants pour la stabilité et le déploiement :
 
-Expo : Utilisé pour le framework et le déploiement de l'application. Politique de confidentialité
+Expo : Cadre de développement et déploiement. Politique de confidentialité
 
-Apple App Analytics : Nous pouvons recevoir des informations agrégées et non identifiables (telles que des rapports de plantage ou le nombre de fois qu'un écran a été consulté) pour nous aider à améliorer les performances de l'application. Politique de confidentialité
+Apple App Analytics : Fournit des données de performance agrégées et non identifiables. Politique de confidentialité
 
 5. Vie privée des enfants
-Puisque nous ne collectons aucune donnée personnelle, MapleDrive est intrinsèquement sûr pour les utilisateurs de tous âges. Nous ne commercialisons pas nos services auprès des enfants de moins de 13 ans et nous ne les suivons pas.
+MapleDrive ne collecte aucune donnée personnelle et est sûr pour les utilisateurs de tous âges. Nous ne suivons pas les enfants de moins de 13 ans.
 
-6. Sécurité des données
-Comme vos données (telles que les scores de quiz) restent sur votre appareil, leur sécurité est gérée par le système d'exploitation iOS. Nous vous recommandons de maintenir le logiciel de votre appareil à jour avec la dernière version d'iOS.
-
-7. Modifications de cette politique
-Nous pouvons mettre à jour cette politique de confidentialité pour refléter des changements dans nos pratiques ou pour des raisons juridiques. La « Date d'entrée en vigueur » en haut de page indiquera la date des dernières modifications.
-
-8. Contactez-nous
-Si vous avez des questions concernant cette politique ou l'Application, veuillez nous contacter à :
-Courriel : swiftstyleteam@gmail.com
+6. Contactez-nous
+Pour toute question concernant cette politique, contactez-nous à : swiftstyleteam@gmail.com
